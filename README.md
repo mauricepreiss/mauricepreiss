@@ -7,7 +7,7 @@
 </p>
 
 # About Me ✍️
-I am Maurice, 17 from Erfurt, Thuringia, Germany. 
+I am Maurice, 18 from Erfurt, Thuringia, Germany. 
 
 For 1 1/2 years now I have been learning the profession of an application development specialist in the field of desktop and API development in C# .NET. I code hobby C# projects, reprogram already existing programs, improve existing projects and rewrite already existing projects / programs better.
 
