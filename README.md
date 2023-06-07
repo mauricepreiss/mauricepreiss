@@ -16,7 +16,7 @@ For 1 1/2 years now I have been learning the profession of an application develo
   <img src="https://media.discordapp.net/attachments/928996744145010691/1074829474652225616/github-banner-berghof.png?width=800&height=160" />
 </p>
 
-Currently i'm working for [Berghof Group GmbH](https://www.berghof.group/) in Koenigsee, Thuringia, Germany. 
+Currently i'm working for [Berghof Group GmbH](https://berghof.group/) in Koenigsee, Thuringia, Germany. 
 
 We are a software company specializing in the optimization of business processes and the sale of ERP systems. For 30 years we have been advising our customers with the utmost friendliness and professionalism. You want to optimize your business processes and get everything out of your company? Then [Berghof Group GmbH](https://www.berghof-systeme.de/) is exactly your contact. 
 
