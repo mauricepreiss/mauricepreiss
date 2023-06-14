@@ -9,7 +9,7 @@
 # About Me ✍️
 I am Maurice, 18 from Erfurt, Thuringia, Germany. 
 
-For 1 1/2 years now I have been learning the profession of an application development specialist in the field of desktop and API development in C# .NET. I code hobby C# projects, reprogram already existing programs, improve existing projects and rewrite already existing projects / programs better.
+For 2 years now I have been learning the profession of an software developer in the field of desktop and API development in C# .NET. I code hobby C# projects, reprogram already existing programs and softwares, improve existing projects and improve already existing programs.
 
 ## Current Workplace 💻
 <p align="center">
