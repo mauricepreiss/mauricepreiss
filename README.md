@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/928996744145010691/1074811474763071581/mauricepreiss-header-image.png?width=778&height=128" />
+  <img src="https://raw.githubusercontent.com/mauricepreiss/mauricepreiss/main/mauricepreiss-header-image.png" />
 </p>
 
 <p align="center">
@@ -9,11 +9,11 @@
 # About Me ✍️
 I am Maurice, 18 from Erfurt, Thuringia, Germany. 
 
-For 2 years now I have been learning the profession of an software developer in the field of desktop and API development in C# .NET. I code hobby C# projects, reprogram already existing programs and softwares, improve existing projects and improve already existing programs.
+For 2 years now I have been learning the profession of an software developer in the field of desktop and library development in C# .NET. I code hobby C# projects, remake already existing projects and improve existing projects / programs.
 
 ## Current Workplace 💻
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/928996744145010691/1074829474652225616/github-banner-berghof.png?width=800&height=160" />
+  <img src="https://raw.githubusercontent.com/mauricepreiss/mauricepreiss/main/github-banner-berghof.png" />
 </p>
 
 Currently i'm working for [Berghof Group GmbH](https://berghof.group/) in Koenigsee, Thuringia, Germany. 
@@ -27,3 +27,4 @@ src="https://img.icons8.com/external-flat-juicy-fish/48/null/external-sql-coding
 
 ## Contact Me 🤙
 [📧 Gmail](mailto:preiss.maurice@gmail.com)
+[🟦 LinkedIn](https://de.linkedin.com/in/maurice-prei%C3%9F-b78919234)
