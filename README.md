@@ -27,4 +27,5 @@ src="https://img.icons8.com/external-flat-juicy-fish/48/null/external-sql-coding
 
 ## Contact Me 🤙
 [📧 Gmail](mailto:preiss.maurice@gmail.com)
+
 [🟦 LinkedIn](https://de.linkedin.com/in/maurice-prei%C3%9F-b78919234)
