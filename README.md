@@ -7,9 +7,9 @@
 </p>
 
 # About Me ✍️
-I am Maurice, 18 from Erfurt, Thuringia, Germany. 
+I am Maurice, 19 from Erfurt, Thuringia, Germany. 
 
-For 2 years now I have been learning the profession of an software developer in the field of desktop and library development in C# .NET. I code hobby C# projects, remake already existing projects and improve existing projects / programs.
+For 3 years now I have been learning the profession of an software developer in the field of desktop and library development in C# .NET. I code hobby C# projects, remake already existing projects and improve existing projects / programs.
 
 ## Current Workplace 💻
 <p align="center">
